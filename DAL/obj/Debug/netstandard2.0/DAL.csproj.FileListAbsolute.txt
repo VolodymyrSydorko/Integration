@@ -1,0 +1,48 @@
+G:\Irynka\Project\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+G:\Irynka\Project\DAL\bin\Debug\netstandard2.0\DAL.dll
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+G:\Irynka\Project\DAL\bin\Debug\netstandard2.0\DAL.pdb
+G:\Irynka\Project\DAL\bin\Debug\netstandard2.0\DTO.dll
+G:\Irynka\Project\DAL\bin\Debug\netstandard2.0\DTO.pdb
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.dll
+G:\Irynka\Project\DAL\obj\Debug\netstandard2.0\DAL.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\bin\Debug\netstandard2.0\DTO.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\bin\Debug\netstandard2.0\DTO.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\DAL\obj\Debug\netstandard2.0\DAL.pdb
+D:\Integration\Integration\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\Integration\Integration\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\Integration\Integration\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Integration\Integration\DAL\bin\Debug\netstandard2.0\DTO.dll
+D:\Integration\Integration\DAL\bin\Debug\netstandard2.0\DTO.pdb
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.pdb
+D:\Projects\Integration\Integration\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+D:\Projects\Integration\Integration\DAL\bin\Debug\netstandard2.0\DAL.dll
+D:\Projects\Integration\Integration\DAL\bin\Debug\netstandard2.0\DAL.pdb
+D:\Projects\Integration\Integration\DAL\bin\Debug\netstandard2.0\DTO.dll
+D:\Projects\Integration\Integration\DAL\bin\Debug\netstandard2.0\DTO.pdb
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.csproj.AssemblyReference.cache
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.dll
+D:\Projects\Integration\Integration\DAL\obj\Debug\netstandard2.0\DAL.pdb
