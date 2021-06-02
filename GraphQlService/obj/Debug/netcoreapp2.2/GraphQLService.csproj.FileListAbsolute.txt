@@ -1,0 +1,82 @@
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.deps.json
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.json
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.dev.json
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.dll
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.pdb
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\DAL.dll
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\DTO.dll
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\DAL.pdb
+G:\Irynka\Project\GraphQLService\bin\Debug\netcoreapp2.2\DTO.pdb
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csprojAssemblyReference.cache
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CoreCompileInputs.cache
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cache
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cs
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfoInputs.cache
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfo.cs
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorTargetAssemblyInfo.cache
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CopyComplete
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.dll
+G:\Irynka\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.deps.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.dev.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\DAL.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\DTO.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\DAL.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\bin\Debug\netcoreapp2.2\DTO.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csprojAssemblyReference.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfoInputs.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfo.cs
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CoreCompileInputs.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cs
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorTargetAssemblyInfo.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CopyComplete
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.genruntimeconfig.cache
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.deps.json
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.json
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.dev.json
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.dll
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DAL.dll
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DTO.dll
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DAL.pdb
+D:\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DTO.pdb
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csprojAssemblyReference.cache
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfoInputs.cache
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfo.cs
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CoreCompileInputs.cache
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cache
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cs
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorTargetAssemblyInfo.cache
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CopyComplete
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.dll
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.genruntimeconfig.cache
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.deps.json
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.json
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.runtimeconfig.dev.json
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.dll
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DAL.dll
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DTO.dll
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DAL.pdb
+D:\Projects\Integration\Integration\GraphQLService\bin\Debug\netcoreapp2.2\DTO.pdb
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.AssemblyReference.cache
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfoInputs.cache
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.AssemblyInfo.cs
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CoreCompileInputs.cache
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cache
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorAssemblyInfo.cs
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.RazorTargetAssemblyInfo.cache
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.csproj.CopyComplete
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.dll
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.pdb
+D:\Projects\Integration\Integration\GraphQLService\obj\Debug\netcoreapp2.2\GraphQLService.genruntimeconfig.cache
