@@ -1,0 +1,67 @@
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.deps.json
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.json
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.dev.json
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.dll
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CoreCompileInputs.cache
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfoInputs.cache
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfo.cs
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csprojAssemblyReference.cache
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.pdb
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\DAL.dll
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\DTO.dll
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\DAL.pdb
+G:\Irynka\Project\QueueListener\bin\Debug\netcoreapp2.1\DTO.pdb
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CopyComplete
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.dll
+G:\Irynka\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.deps.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.dev.json
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\DAL.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\DTO.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\bin\Debug\netcoreapp2.1\DTO.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csprojAssemblyReference.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfoInputs.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfo.cs
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CoreCompileInputs.cache
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CopyComplete
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.dll
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.pdb
+D:\5 КУРС\5 КУРС\Джава\Project-20190508T101039Z-001\Project\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.genruntimeconfig.cache
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.deps.json
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.json
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.dev.json
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.dll
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.pdb
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DAL.dll
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DTO.dll
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DTO.pdb
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csprojAssemblyReference.cache
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfoInputs.cache
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfo.cs
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CoreCompileInputs.cache
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CopyComplete
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.dll
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.pdb
+D:\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.genruntimeconfig.cache
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.deps.json
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.json
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.runtimeconfig.dev.json
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.dll
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\QueueListener.pdb
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DAL.dll
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DTO.dll
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\Projects\Integration\Integration\QueueListener\bin\Debug\netcoreapp2.1\DTO.pdb
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.AssemblyReference.cache
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfoInputs.cache
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.AssemblyInfo.cs
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CoreCompileInputs.cache
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.csproj.CopyComplete
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.dll
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.pdb
+D:\Projects\Integration\Integration\QueueListener\obj\Debug\netcoreapp2.1\QueueListener.genruntimeconfig.cache
