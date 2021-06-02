@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SiteParcer": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
